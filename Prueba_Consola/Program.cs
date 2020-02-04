@@ -8,6 +8,8 @@ namespace Prueba_Consola
         {
             Console.WriteLine("Hello World!");
             Console.Write("This new repository");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
