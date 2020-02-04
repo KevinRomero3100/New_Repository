@@ -10,6 +10,8 @@ namespace Prueba_Consola
             Console.Write("This new repository");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
+            Console.WriteLine("New change");
         }
     }
 }
