@@ -7,6 +7,7 @@ namespace Prueba_Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.Write("This new repository");
         }
     }
 }
